@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="hello_blank_fragment">Halo fragment kosong</string>
+    <string name="see_title">Lihat Selengkapnya</string>
+    <string name="settings_text">Pengaturan</string>
+    <string name="tab_name_1">Film</string>
+    <string name="tab_name_2">Acara Tv</string>
+    <string name="content_tab_text">ini tab ke</string>
+    <string name="about_text">Tentang </string>
+    <string name="add_favorite">Tambah ke Wishlist</string>
+    <string name="string_dummy">dummy</string>
+</resources>

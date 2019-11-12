@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Movie catalogg</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="see_title">See Details</string>
+    <string name="settings_text">Setting</string>
+    <string name="tab_name_1">Movies</string>
+    <string name="tab_name_2">TV Show</string>
+    <string name="content_tab_text">ini tab ke </string>
+    <string name="about_text">About Film</string>
+    <string name="add_favorite">Add Wish List</string>
+    <string name="string_dummy">dummy</string>
+
+    <!--    Array Movies-->
+
+    <string-array name="data_img_movies">
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_overlord</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_spiderman</item>
+    </string-array>
+
+    <string-array name="data_nama_movies">
+        <item>Alita : Battle Angel</item>
+        <item>Aquaman</item>
+        <item>Creed II</item>
+        <item>Fantastic Beats</item>
+        <item>How To Train Your Dragon</item>
+        <item>Avengers Infinity War</item>
+        <item>Overlord</item>
+        <item>Ralph Break The Internet</item>
+        <item>Robin Hood</item>
+        <item>Spiderman Into The Spider-Verse</item>
+    </string-array>
+
+    <string-array name="data_genre_movies">
+        <item>Action, Fantasy</item>
+        <item>Action, Fantasy</item>
+        <item>Action, Fantasy, Slice of Life</item>
+        <item>Action, Fantasy</item>
+        <item>Action, Fantasy, Comedy, Kids</item>
+        <item>Action, Fantasy</item>
+        <item>Fantasy, Comedy, Mystery</item>
+        <item>Action, Fantasy, Comedy, Kids</item>
+        <item>Action, Fantasy</item>
+        <item>Action, Fantasy, Comedy, Kids</item>
+    </string-array>
+
+    <string-array name="data_likes_movies">
+        <item>90K</item>
+        <item>78K</item>
+        <item>73K</item>
+        <item>90K</item>
+        <item>99K</item>
+        <item>97K</item>
+        <item>89K</item>
+        <item>83K</item>
+        <item>98K</item>
+        <item>120K</item>
+    </string-array>
+
+    <string-array name="data_rating_movies">
+        <item>7.8 Rate</item>
+        <item>8.8 Rate</item>
+        <item>9.9 Rate</item>
+        <item>7.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>8.9 Rate</item>
+        <item>7.8 Rate</item>
+        <item>9.8 Rate</item>
+    </string-array>
+
+    <string-array name="data_kontent_movies">
+        <item>300k</item>
+        <item>428K</item>
+        <item>428K</item>
+        <item>528K</item>
+        <item>578K</item>
+        <item>838K</item>
+        <item>748K</item>
+        <item>428K</item>
+        <item>538K</item>
+        <item>938K</item>
+    </string-array>
+
+    <string-array name="data_desc_movies">
+        <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>In the year 2138, virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, one player named Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\"</item>
+        <item>Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope\'s video game, \"Sugar Rush.\" In way over their heads, Ralph and Vanellope rely on the citizens of the internet the netizens to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin"\ Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+    </string-array>
+
+    <!--    Array Tv Show-->
+
+    <string-array name="data_img_tv">
+        <item>@drawable/poster_tv_arrow</item>
+        <item>@drawable/poster_tv_dragon_ball</item>
+        <item>@drawable/poster_tv_fairytail</item>
+        <item>@drawable/poster_tv_family_guy</item>
+        <item>@drawable/poster_tv_flash</item>
+        <item>@drawable/poster_tv_god</item>
+        <item>@drawable/poster_tv_hanna</item>
+        <item>@drawable/poster_tv_iron_fist</item>
+        <item>@drawable/poster_tv_supernatural</item>
+        <item>@drawable/poster_tv_the_simpson</item>
+        <item>@drawable/poster_tv_the_walking_dead</item>
+    </string-array>
+
+    <string-array name="data_nama_tv">
+        <item>Arrow</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>Games of Thrones</item>
+        <item>Hanna</item>
+        <item>Iron Fist</item>
+        <item>Supernatural</item>
+        <item>The Simpson</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="data_genre_tv">
+        <item>Action, Fantasy, Crime</item>
+        <item>Cartoon, Action, Fantasy, Kids</item>
+        <item>Action, Fantasy, Cartoons</item>
+        <item>Drama, Slice of Life, Cartoons</item>
+        <item>Drama, Action, Fantasy, Crime</item>
+        <item>Drama, Action, Fantasy, Kingdoms</item>
+        <item>Drama, Fantasy, Slice of Life</item>
+        <item>Drama, Action, Fantasy, Crime</item>
+        <item>Drama, Action, Fantasy, Crime</item>
+        <item>Series, Fantasy, Cartoons</item>
+        <item>Drama, Action, Fantasy, Horror</item>
+    </string-array>
+
+    <string-array name="data_likes_tv">
+        <item>90K</item>
+        <item>78K</item>
+        <item>73K</item>
+        <item>90K</item>
+        <item>99K</item>
+        <item>97K</item>
+        <item>89K</item>
+        <item>83K</item>
+        <item>98K</item>
+        <item>120K</item>
+        <item>90K</item>
+    </string-array>
+
+    <string-array name="data_rating_tv">
+        <item>7.8 Rate</item>
+        <item>8.8 Rate</item>
+        <item>9.9 Rate</item>
+        <item>7.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>8.9 Rate</item>
+        <item>7.8 Rate</item>
+        <item>9.8 Rate</item>
+        <item>8.8 Rate</item>
+    </string-array>
+
+    <string-array name="data_kontent_tv">
+        <item>300k</item>
+        <item>428K</item>
+        <item>428K</item>
+        <item>528K</item>
+        <item>578K</item>
+        <item>838K</item>
+        <item>748K</item>
+        <item>428K</item>
+        <item>538K</item>
+        <item>938K</item>
+        <item>838K</item>
+    </string-array>
+
+    <string-array name="data_desc_tv">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku\'s home. Together, they set off to find all seven and to grant her wish.</item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn\'t just any ordinary kid, he\'s a member of one of the world\'s most infamous mage guilds: Fairy Tail.</item>
+        <item>Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good.</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night\'s Watch, is all that stands between the realms of men and icy horrors beyond.</item>
+        <item>This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.</item>
+        <item>Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their \'67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.</item>
+    </string-array>
+</resources>
